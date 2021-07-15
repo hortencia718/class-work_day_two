@@ -1,0 +1,12 @@
+ /* body{background-color: aqua;} */
+ .p1{
+    border: 2px solid red;
+    width:30%;
+    height: 180px;
+
+}
+figure{
+    border: 2px dotted green;
+    width:30%;
+    height: 180px;
+}
